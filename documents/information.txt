@@ -1,0 +1,6 @@
+1. yahoo finance - yfinance
+2. yahoo financials
+3. pandas
+4. Alpha Vantage -
+    Github link - https://github.com/RomelTorres/alpha_vantage
+    https://www.alphavantage.co/documentation/
