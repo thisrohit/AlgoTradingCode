@@ -1,8 +1,8 @@
 # =============================================================================
 # Data extraction from stockrow.com
-# Author : Reza Sadegehi (Reviewed and updated by Mayank Rasu)
+# Author : Reza Sadegehi (Reviewed and updated by Rohit Sarma)
 
-# Please report bug/issues in the Q&A section
+# Please report bug/issues in the comment section
 # =============================================================================
 import pandas as pd 
 

@@ -1,8 +1,8 @@
 # =============================================================================
 # Ta-lib introduction
-# Author : Mayank Rasu
+# Author : Rohit Sarma
 
-# Please report bug/issues in the Q&A section
+# Please report bug/issues in the comment section
 # =============================================================================
 
 from alpha_vantage.timeseries import TimeSeries

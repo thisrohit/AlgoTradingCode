@@ -1,8 +1,8 @@
 # =============================================================================
 # Backtesting strategy - III : combining renko with obv indicator
-# Author : Mayank Rasu
+# Author : Rohit Sarma
 
-# Please report bug/issues in the Q&A section
+# Please report bug/issues in the comment section
 # =============================================================================
 
 import numpy as np

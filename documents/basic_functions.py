@@ -1,8 +1,8 @@
 # =============================================================================
 # Import OHLCV data and perform basic data operations
-# Author : Mayank Rasu (http://rasuquant.com/wp/)
+# Author : Rohit Sarma (http://rasuquant.com/wp/)
 
-# Please report bug/issues in the Q&A section
+# Please report bug/issues in the comment section
 # =============================================================================
 
 import datetime as dt
